@@ -21,6 +21,8 @@ body {
 .interests {
     background-color: white;
     width: 30%;
+    border-collapse: collapse;
+    
     padding: 10px;
 }
 

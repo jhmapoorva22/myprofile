@@ -15,10 +15,12 @@ body {
 }
 
 .projects {
+    text-align: left;
     background-color: white;
 }
 
 .interests {
+    text-align: left;
     border-collapse: collapse;
     border:1px solid black;
 }

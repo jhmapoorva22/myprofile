@@ -1,5 +1,4 @@
 body {
-    text-align: center;
     margin: 0px;
     font-family: "Comic Sans MS";
 }
@@ -10,8 +9,8 @@ body {
 }
 
 .image {
-    width="200"
-    height="250"
+    width="200";
+    height="250";
 }
 
 .projects {
